@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Website of David Lee</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Website of David Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>health</title>
+      <link>https://example.com/tags/health/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nba</title>
+      <link>https://example.com/tags/nba/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/nba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oura</title>
+      <link>https://example.com/tags/oura/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/oura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sleep</title>
+      <link>https://example.com/tags/sleep/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://example.com/tags/books/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leadership</title>
+      <link>https://example.com/tags/leadership/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recommended</title>
+      <link>https://example.com/tags/recommended/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/recommended/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tweets</title>
+      <link>https://example.com/tags/tweets/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://example.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
