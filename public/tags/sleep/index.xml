@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sleep on Website of David Lee</title>
-    <link>https://example.com/tags/sleep/</link>
+    <link>https://d-v-dlee-blog.onrender.com/tags/sleep/</link>
     <description>Recent content in sleep on Website of David Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://d-v-dlee-blog.onrender.com/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Corona Hero? Idk. My ~2 Years with an Oura Ring</title>
-      <link>https://example.com/post/oura/</link>
+      <link>https://d-v-dlee-blog.onrender.com/post/oura/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/oura/</guid>
+      <guid>https://d-v-dlee-blog.onrender.com/post/oura/</guid>
       <description>&lt;p&gt;TLDR: Sleep is really important. The Oura Ring helps you track sleep (+ activity and meditation). Being able to improve sleep off the data is hard. The Oura ring is a cool product - not life-changing but definitely cool.&lt;/p&gt;</description>
     </item>
     

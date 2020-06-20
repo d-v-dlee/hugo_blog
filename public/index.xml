@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website of David Lee</title>
-    <link>https://example.com/</link>
+    <link>https://d-v-dlee-blog.onrender.com/</link>
     <description>Recent content on Website of David Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://d-v-dlee-blog.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Corona Hero? Idk. My ~2 Years with an Oura Ring</title>
-      <link>https://example.com/post/oura/</link>
+      <link>https://d-v-dlee-blog.onrender.com/post/oura/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/oura/</guid>
+      <guid>https://d-v-dlee-blog.onrender.com/post/oura/</guid>
       <description>&lt;p&gt;TLDR: Sleep is really important. The Oura Ring helps you track sleep (+ activity and meditation). Being able to improve sleep off the data is hard. The Oura ring is a cool product - not life-changing but definitely cool.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://d-v-dlee-blog.onrender.com/about/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://d-v-dlee-blog.onrender.com/about/</guid>
       <description>Hi, I&amp;rsquo;m David. I have a wide-variety of interests that I know little-to-none about.</description>
     </item>
     
     <item>
       <title>Lessons of Leadership from South: The Endurance</title>
-      <link>https://example.com/post/shackleton_0319/</link>
+      <link>https://d-v-dlee-blog.onrender.com/post/shackleton_0319/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/shackleton_0319/</guid>
+      <guid>https://d-v-dlee-blog.onrender.com/post/shackleton_0319/</guid>
       <description>&lt;p&gt;TLDR: On their way to Antarctica, Shackleton and his men are forced to abandon ship and survive in a treacherous environment. Despite significant obstacles, Shackleton leads his men to safety thanks to his preparation, adaptability, and intuitive understanding of human psychology.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>My Favorite Books of 2018</title>
-      <link>https://example.com/post/best_book_2018/</link>
+      <link>https://d-v-dlee-blog.onrender.com/post/best_book_2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/best_book_2018/</guid>
+      <guid>https://d-v-dlee-blog.onrender.com/post/best_book_2018/</guid>
       <description>&lt;p&gt;TLDR: My top favorite books of 2018 and everything else I read.&lt;/p&gt;</description>
     </item>
     
