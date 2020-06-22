@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Website of David Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://d-v-dlee-blog.onrender.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>Corona Hero? Idk. My ~2 Years with an Oura Ring</title>
       <link>https://d-v-dlee-blog.onrender.com/post/oura/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://d-v-dlee-blog.onrender.com/post/oura/</guid>
-      <description>&lt;p&gt;TLDR: Sleep is really important. The Oura Ring helps you track sleep (+ activity and meditation). Being able to improve sleep off the data is hard. The Oura ring is a cool product - not life-changing but definitely cool.&lt;/p&gt;</description>
+      <description>&lt;p&gt;TLDR: The NBA is going to use the Oura Ring. The Oura Ring is for sleep (Covid?). Sleep is really important. The Oura Ring helps you track sleep (+ activity and meditation). Being able to improve sleep off the data is hard. The Oura ring is a cool product - not life-changing but definitely cool.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Books of 2018</title>
+      <link>https://d-v-dlee-blog.onrender.com/post/best_book_2018/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-v-dlee-blog.onrender.com/post/best_book_2018/</guid>
+      <description>&lt;p&gt;TLDR: My top favorite books of 2018 and everything else I read.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,15 +36,6 @@
       
       <guid>https://d-v-dlee-blog.onrender.com/post/shackleton_0319/</guid>
       <description>&lt;p&gt;TLDR: On their way to Antarctica, Shackleton and his men are forced to abandon ship and survive in a treacherous environment. Despite significant obstacles, Shackleton leads his men to safety thanks to his preparation, adaptability, and intuitive understanding of human psychology.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>My Favorite Books of 2018</title>
-      <link>https://d-v-dlee-blog.onrender.com/post/best_book_2018/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://d-v-dlee-blog.onrender.com/post/best_book_2018/</guid>
-      <description>&lt;p&gt;TLDR: My top favorite books of 2018 and everything else I read.&lt;/p&gt;</description>
     </item>
     
   </channel>
