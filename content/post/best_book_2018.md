@@ -1,7 +1,7 @@
 +++
 author = "David"
 title = "My Favorite Books of 2018"
-date = "2019-01-01"
+date = "2020-06-20"
 description = "Top 5 Books of 2018"
 tags = [
     "books",
@@ -13,6 +13,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
+draft = false
 +++
 
 TLDR: My top favorite books of 2018 and everything else I read.
@@ -22,7 +23,7 @@ TLDR: My top favorite books of 2018 and everything else I read.
 
 [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1442394935) provides a deep examination on the man who built Apple. What makes Steve Jobs fascinating is how well he represents Peter Thiel's dichotomy of traits. Jobs is both zen and manic, empathetic and ruthlessly manipulative.
 
-{{< figure src="images/books_2018/traits.png" >}}
+{{< figure src="/images/books_2018/traits.png" >}}
 
 What also made Jobs so special was his refusal to simply accept the paradigm everyone else accepted. For example:
 
@@ -45,7 +46,7 @@ I think I heard somewhere that the Dothraki of Game of Thrones was based on the 
 
 Once upon a time, Americans once only settled as far West as Texas because they feared the Great Plains and the Comanche. The Great Plains were terrifying because there was only sky and land as far as the eye could see. Early travelers considered the tree-less plains as terrifying as being in the middle of the Atlantic Ocean. If one got lost, they would likely die.
 
-{{< figure src="images/books_2018/empire_summer_moon.jpg">}}
+{{< figure src="/images/books_2018/empire_summer_moon.jpg">}}
 
 On the otherhand, the Comanche were expert horsemen and the fiercest warriors on the plains. The Comanche lived in a horse-centric culture and were able to easily navigate hundres of miles in a few days. They dominated American and Mexican settlers, as well as other native tribes. They were skilled and ruthless, often killing all men and kidnapping young children and women.
 
@@ -59,7 +60,7 @@ One of the most impactful books I've ever read. The advice in this book is clear
 
 Here we see that getting 1% each day means you're ~38x better at the end of the year. Getting 1% worse leads to you being 3% of where you were.
 
-{{< figure src="images/books_2018/james_clear.jpg" height="400" width="300">}}
+{{< figure src="/images/books_2018/james_clear.jpg" height="400" width="300">}}
 
 Build good habits.
 

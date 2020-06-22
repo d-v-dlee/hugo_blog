@@ -12,6 +12,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
+draft = false
 +++
 
 TLDR: On their way to Antarctica, Shackleton and his men are forced to abandon ship and survive in a treacherous environment. Despite significant obstacles, Shackleton leads his men to safety thanks to his preparation, adaptability, and intuitive understanding of human psychology.
@@ -35,7 +36,7 @@ The first thing that stands out is Shackleton's preparation. Prior to his expedi
 The second thing that stands out is his adaptability. Although he acknowledges how difficult the task ahead will be, he does not dwell on his misfortune. Instead, he quickly focuses himself on making the best of the new situation.
 
 
-{{< figure src="images/shackleton/endurance_sinking_0611.jpg" caption="The Endurance's Last Moments" >}}
+{{< figure src="/images/shackleton/endurance_sinking_0611.jpg" caption="The Endurance's Last Moments" >}}
 
 Another example of his leadership is in his decision to march across the ice floats, versus waiting for a favorable drift.
 
