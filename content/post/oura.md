@@ -1,6 +1,6 @@
 +++
 author = "David"
-title = "Corona Hero? Idk. My ~2 Years with an Oura Ring"
+title = "My ~2 Years with an Oura Ring"
 date = "2020-06-22"
 description = "Review of Oura"
 tags = [
