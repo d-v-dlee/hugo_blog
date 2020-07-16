@@ -54,6 +54,11 @@ The CGM is a monitor that is attached to your arm via a very small needle (painl
 
 The Levels app then takes the CGM readings and provides you digestible actionable information. For example, for every meal you eat, Levels calculates a Zone Score (1-10) that represents how the meal affected your body (1 - bad; 10 great). Overtime, you can see what foods lead to stable blood sugar and what foods lead to large and long spikes and adjust accordingly.
 
+{{< figure src="/images/levels/chicken_salad.PNG">}}
+
+{{< figure src="/images/levels/katsu.PNG">}}
+
+
 Ultimately, what Levels provided for me was a tool for habit formation. I could see the immediate consequences of both positive and negative actions that normally took weeks/months to understand.
 
 {{< figure src="/images/levels/habit_loop.png">}}
