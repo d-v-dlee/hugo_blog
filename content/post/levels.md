@@ -13,10 +13,10 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-draft=False
+draft=false
 +++
 
-TLDR: Unlock Levels is really cool. It helped me get a lot healthier.
+TLDR: Unlock Levels is really cool. It is the real deal.
 
 <!--more-->
 I previously wrote a Tweet storm on my experience with the Levels app after my first week. This is a slightly longer, more in-depth look after ~1.5 months.
