@@ -10,7 +10,7 @@ enableEmoji = true
 #disqusShortname = ""
 
 # Google Analytics
-#googleAnalytics = "UA-172988296-1"
+googleAnalytics = "UA-172988296-1"
 
 [params]
 title = "dvdlee"
