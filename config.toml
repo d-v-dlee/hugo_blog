@@ -1,4 +1,5 @@
-baseURL = "https://d-v-dlee-blog.onrender.com/"
+#baseURL = "https://d-v-dlee-blog.onrender.com/"
+baseURL = "https://dvdlee.me/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of David Lee"
