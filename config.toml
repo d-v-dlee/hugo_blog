@@ -5,6 +5,7 @@ title = "Website of David Lee"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
+SameSite = None
 
 # Enable Disqus
 #disqusShortname = ""
