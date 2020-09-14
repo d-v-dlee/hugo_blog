@@ -50,6 +50,7 @@ In addition to his parents, Jefferson received mentorship from his elders and mo
 Thomas Jefferson valued education over everything. He stated that given the choice, he would choose the classical education his father arranged for him over the estates his father left.
 
 He was very disciplined about his studies. In law school, Thomas Jefferson studied for 13-15 hours a day keeping the following schedule: 
+
 - **Mornings - Noon**: Study law.
 - **Noon - Afternoon (2 hours)**: Vigorous exercise and riding no matter the weather. Worse weather builds more resilience towards illness. He carried this habit until he died.
 - **Afternoon - Bedtime**: Split rest of the day between history, philosophy and poetry.
@@ -204,7 +205,7 @@ Lastly, here are 10 maxims he wrote towards the end-of-his-life.
 
 ### Conclusion
 
-**What made him Great?**
+#### What made him Great?
 
 Thomas Jefferson was Great for several reasons. 
 
@@ -220,13 +221,13 @@ This sounds annoying but imagine all of the boring conversations Jefferson had t
 
 Jefferson also had to endure attacks on his character and ideas. His method for dealing with this was 1) to not even acknowledge it (don't answer that Twitter troll!) or 2) killing them with kindness and therefore winning them over. By controlling his emotions, he could focus the topic of discussion and his energy on issues he could control and win.
 
-**What Shaped Him**
+#### What Shaped Him
 
 Clearly his parents had a large influence on him but Thomas Jefferson also relied on the wisdom of those he admired. Similarly, we can first identify people we admire and then imagine what would they do in difficult situations.
 
 If we feel like we don't have the wisdom to make right decision, at least we can have the wisdom to borrow wisdom from those that do. 
 
-**His Failures**
+#### His Failures
 
 While I can understand given the time period, that Thomas Jefferson's personal interests ultimately outweighed his feelings against slavery, his behavior with Sally Hemmings is pretty twisted.
 
