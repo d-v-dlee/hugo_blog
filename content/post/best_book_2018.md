@@ -13,7 +13,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-draft = false
+draft = true
 +++
 
 TLDR: My top favorite books of 2018 and everything else I read.
@@ -27,15 +27,15 @@ TLDR: My top favorite books of 2018 and everything else I read.
 
 What also made Jobs so special was his refusal to simply accept the paradigm everyone else accepted. For example:
 
-1. He relied on **intuition.** Jobs did not conduct any market research before iPhone. He just "knew" what people needed and delivered.
+1. He relied on **intuition.** Jobs did not conduct any market research before releasing the iPhone. He just "knew" what people needed and delivered.
 
 >“I began to realize that an intuitive understanding and consciousness was more significant than abstract thinking and intellectual logical analysis,”
 
-2. He was **skeptical.** Jobs did not simply accept things as-is. When he was told news he did not like, he'd essentially ask: "Why not?" This mindset enabled him to push the limits of engineering and design to create the timeless Apple products we know today.
+2. He was **skeptical.** Jobs did not simply accept things as-is. When he was told news he did not like, he'd essentially ask: "Why not?" This mindset enabled him to push the limits of engineering, design and delivery to create the timeless Apple products we know today.
 
 >“He refused to accept automatically received truths, and he wanted to examine everything himself.”
 
-3. An absolute **force-of-will.** Because of his intuition (self-belief >>>) and skepticism, he was able to push through obstacles and "warp reality." People who worked for Jobs remarked that he could bend reality to his will and convince them that anything was possible.
+3. An absolute **force-of-will.** Because of his intuition (incredible self-belief) and skepticism, he was able to push through obstacles and "warp reality." People who worked for Jobs remarked that he could bend reality to his will and convince them that anything was possible.
 
 "Pretend to be completely in control and people will assume that you are.”
 
