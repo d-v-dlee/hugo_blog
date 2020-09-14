@@ -19,6 +19,7 @@ draft=false
 Examining why Thomas Jefferson was Great as well as his shortcomings through Jon Meacham's *Thomas Jefferson: The Art of Power*.
 
 <!--more-->
+### Exploring Thomas Jefferson
 
 We all "know" Thomas Jefferson. He was a Founding Father and the author of the Declaration of Independence. He was the 3rd President of the United States and responsible for the Louisiana Purchase and Lewis and Clark's famous expedition out West. He's on the $2 bill and nickel.
 
@@ -49,15 +50,15 @@ In addition to his parents, Jefferson received mentorship from his elders and mo
 Thomas Jefferson valued education over everything. He stated that given the choice, he would choose the classical education his father arranged for him over the estates his father left.
 
 He was very disciplined about his studies. In law school, Thomas Jefferson studied for 13-15 hours a day keeping the following schedule: 
-- Mornings - Noon: Study law.
-- Noon - Afternoon (2 hours): Vigorous exercise and riding no matter the weather. Worse weather builds more resilience towards illness. He carried this habit until he died.
-- Afternoon - Bedtime: Split rest of the day between history, philosophy and poetry.
+- **Mornings - Noon**: Study law.
+- **Noon - Afternoon (2 hours)**: Vigorous exercise and riding no matter the weather. Worse weather builds more resilience towards illness. He carried this habit until he died.
+- **Afternoon - Bedtime**: Split rest of the day between history, philosophy and poetry.
 
 He never stopped learning, exploring whatever piqued his curiousity. He became a learned man in many subjects. In Europe's sophisticated courts, he was known as a fascinating individual, deeply knowledgable about art, architecture, history, philosophy and the sciences. Even as President, he carved out time in the evenings to conduct activities like examining animal pelts sent by Lewis and Clark and conducting botanical experiments to attempt to produce superior crops.
 
 Like his father, Jefferson emphasized the importance of study to his children.
 
->"Time spent on study was never wasted. Knowledge is indeed a desirable, lovely possession."
+>"Time spent on study was never wasted. **Knowledge is indeed a desirable, lovely possession.**"
 
 His love for learning also spilled into his political career. Jefferson was one of the first who aimed to improve public education to provide better opportunities for all Americans.
 
@@ -83,6 +84,9 @@ His famous words in the Declaration of Independence clearly illustrate his abili
 
 >We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.
 
+{{< figure src="/images/jefferson/DoI.jpg">}}
+
+
 #### Conversation
 
 Thomas Jefferson's greatest strength was his interpersonal skills. As a young man, Jefferson observed the importance of keeping engaging company, to both gain information and build relationships. Throughout his career, he built power through his unrivaled ability of listening, conversing and making other people feel special.
@@ -102,7 +106,7 @@ People loved talking to Thomas Jefferson as he made them feel important and hear
 
 #### Civility
 
-Thomas Jefferson was always cordial and made it a point to never argue or contradict someone in public. He saw conflict as antithetical to creating harmonious solutions as the more prideful someone felt, the less rational they'd be. Civilty in his words, was "most required when least convenient."
+Thomas Jefferson was always cordial and made it a point to never argue or contradict someone in public. He saw conflict as antithetical to creating harmonious solutions as the more prideful someone felt, the less rational they'd be. Civilty in his words, was **"most required when least convenient."**
 
 Instead of quarreling, he would find out exactly what his opponent wanted, bake it into the solution of what he wanted, and then politely present the compromise as if it was their idea.
 
@@ -117,7 +121,7 @@ An unfortunate example of principle one is Thomas Jefferson's approach on slaver
 
 An example of principle two is illustrated by the views of his constituents at the end of his presidency. When Thomas Jefferson took office, the Federalists abhorred him while the Republicans adored him. By the time he was leaving office, some Republicans complained he was "not Republican enough." His displeasing of the two extremes (hardcore Federalists and Republicans) illustrates that he was a man guided by principled pragmatism and not dogma. He served the American people, not a particular party.
 
-At a policy level, Thomas Jefferson's core hedgehog belief was the idea that the great struggle of the age was "Republicanism vs. Absolutism." All of his actions were guided by this core belief. Even after the defeat of the British in the Revolutionary War, Jefferson was constantly wary of the ever-lurking presence of the British and the Americans (Alexander Hamilton) still receptive to ideas aligned with Absolutism.
+At a policy level, Thomas Jefferson's core hedgehog belief was the idea that the great struggle of the age was **"Republicanism vs. Absolutism."** All of his actions were guided by this core belief. Even after the defeat of the British in the Revolutionary War, Jefferson was constantly wary of the ever-lurking presence of the British and the Americans (Alexander Hamilton) still receptive to ideas aligned with Absolutism.
 
 Strategically, he looked like a hypocrite, opposing a strong central government while George Washington's Secretary of State while all for it as President. While his actions objectively look flip-floppy, when viewed through the lens of his hedgehog belief, we see that he did anything required to protect the young Republic from threats real and perceived.
 
@@ -139,7 +143,7 @@ Despite his words and beliefs, he never could fully reject the mainstream accept
 
 Sally Hemmings is where things gets juicy and fucked up!
 
-Sally Hemmings, a slave, was the half-sister of Jefferson's dead wife. She was 10 years old when Martha Jefferson died and accompanied Thomas Jefferson to France when she was 14. According to accounts of the time, Sally was light-skinned and extremely desirable. She became Jefferson's mistress in France.
+Sally Hemmings, a slave, was the half-sister of Jefferson's dead wife. She was 10 years old when Martha Jefferson died and accompanied Thomas Jefferson to France when she was 14. She became Jefferson's mistress in France.
 
 While they were in Paris, France abolished slavery. Sally Hemmings alerted Jefferson of her decision to stay in Paris as a free woman but Jefferson begged her to return to the US, promising he would free *their* children once they turned 19.
 
@@ -151,7 +155,7 @@ While we can understand his overall views on slavery given the time period, how 
 
 Even through the lens of the late 18th and early 19th century, this seems like a black stain on Jefferson's legacy.
 
-Sidenote: Although this Sally Hemmings bit is quite messed up, his white side of the family loved and adored him dearly. He was a gentle and beloved Patriarch.
+Sidenote: His white side of the family loved and adored him dearly. He was a gentle and beloved Patriarch. Which illustrates how fucked up slavery was.
 
 ### Religion
 
@@ -165,7 +169,7 @@ On a personal level, Thomas Jefferson identified as a Christian. Ever the ration
 
 Jefferson was also very progressive in his beliefs, appreciating all religions and believe that faith was ultimately a relationship between an individual and his God.
 
->"If I were to be a founder of a new sect, I would call them Epicurians. And after the example of the bee, advise them to extract the honey from every sect. My fundamental principle would be that were are to be saved by our good works within our power, and not by our faith, which is not within our power."
+>"If I were to be a founder of a new sect, I would call them Epicurians. And after the example of the bee, advise them to extract the honey from every sect. My fundamental principle would be that **we are to be saved by our good works within our power, and not by our faith, which is not within our power."**
 
 >"My faith is known to my God and my God alone."
 
@@ -216,13 +220,13 @@ This sounds annoying but imagine all of the boring conversations Jefferson had t
 
 Jefferson also had to endure attacks on his character and ideas. His method for dealing with this was 1) to not even acknowledge it (don't answer that Twitter troll!) or 2) killing them with kindness and therefore winning them over. By controlling his emotions, he could focus the topic of discussion and his energy on issues he could control and win.
 
-** What Shaped Him **
+**What Shaped Him**
 
 Clearly his parents had a large influence on him but Thomas Jefferson also relied on the wisdom of those he admired. Similarly, we can first identify people we admire and then imagine what would they do in difficult situations.
 
 If we feel like we don't have the wisdom to make right decision, at least we can have the wisdom to borrow wisdom from those that do. 
 
-** His Failures **
+**His Failures**
 
 While I can understand given the time period, that Thomas Jefferson's personal interests ultimately outweighed his feelings against slavery, his behavior with Sally Hemmings is pretty twisted.
 
