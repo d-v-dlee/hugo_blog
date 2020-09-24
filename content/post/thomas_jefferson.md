@@ -132,13 +132,17 @@ A funny (?) sidenote is that Thomas Jefferson was the original Middle East meddl
 
 Thomas Jefferson's legacy is most complicated when it comes to slavery.
 
-On one hand, he thought slavery was morally wrong and tried to fight it early on in his career. On the other hand, he benefitted greatly from it and opposed simple plans to eradicate slavery for fears that its negative impact on the US would outweigh the delivered moral justice.
+On one hand, he thought slavery was morally wrong and tried to fight it early on in his career. On the other hand, he was born into a slave-owning family and benefitted greatly from it. Ultimately, while he thought slavery was wrong, he opposed simple plans to eradicate it for fears that its negative impact on the US would outweigh the delivered moral justice.
 
-Jefferson's plantation was a huge and tidy operation, self-sufficient from any outside help. Like his parents, he had an easy sense of command and a great eye for detail. At Monticello, he controlled a manufacturing pipeline of skilled adult laborers, such as carpenters, masons, brick layers, and smiths, as well as children workers. Boy slaves produced 10,000 nails a day.
+Jefferson benefitted greatly from slavery. Jefferson's plantation was a huge and tidy operation, self-sufficient from any outside help. Like his parents, he had an easy sense of command and a great eye for detail. At Monticello, he controlled a manufacturing pipeline of skilled adult laborers, such as carpenters, masons, brick layers, and smiths, as well as child workers. Boy slaves produced 10,000 nails a day!!
 
-Jefferson saw slavery as a moral stain, yet he could not envision any solution where free blacks and whites co-existed in the United States. Ultimately, his Virginian-identity outweighed his moral uneasiness. When slavery became a hot issue in regards to Missouri, instead of speaking out, he folded to pro-slavery views in fear that abolishing it would fraction the United States.
+Jefferson saw slavery as a moral stain, yet he could not envision any scenario where the eradication of slavery could succeed. Given the treatment of slaves, Jefferson, like many other whites, feared that freedom could lead to violent revenge. Therefore, he could not imagine a society of both free whites and blacks. If slavery was to be abolished, the blacks would have to leave.
 
-Despite his words and beliefs, he never could fully reject the mainstream acceptance of slavery. 
+Outside of personal safety, Jefferson also believed that the eradication of slavery would open the United States to greater threats from Absolutism (remember his Hedgehog idea). The fate of the United States as a republic relied on its unity. Upsetting the South and fractioning itself would leave it more susceptible to British influence or even invasion. This was unacceptable.
+
+During the debates over slavery in Missouri, Jefferson had a chance to condemn slavery. Instead, he folded to pro-slavery views, remarking personally, that while he'd love to end the abominable act, slavery was a problem he could not solve.
+
+Despite his personal words and beliefs on slavery, Thomas Jefferson wasn't about that action. 
 
 ### Sally Hemmings
 
@@ -231,5 +235,5 @@ If we feel like we don't have the wisdom to make right decision, at least we can
 
 While I can understand given the time period, that Thomas Jefferson's personal interests ultimately outweighed his feelings against slavery, his behavior with Sally Hemmings is pretty twisted.
 
-No one is perfect and this is probably the one black mark on Jefferson's legacy. Despite all of this, Jefferson was instrumental to the birth of the United States, its continued freedom from England, and the Separation of Church and State. Thomas Jefferson is worth the hype.
+No one is perfect and this is probably the one black mark on Jefferson's legacy. Despite all of this, Jefferson was instrumental to the birth of the United States, its continued freedom from England, and the Separation of Church and State. Thomas Jefferson is an American hero that we should all be thankful for.
 
