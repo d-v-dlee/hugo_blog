@@ -12,8 +12,8 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-draft=flase
-+++
+draft=false
++++ 
 
 ### Avoid Vegetable Oils
 
