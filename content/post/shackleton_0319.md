@@ -12,7 +12,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-draft = false
+draft = true
 +++
 
 TLDR: On their way to Antarctica, Shackleton and his men are forced to abandon ship and survive in a treacherous environment. Despite significant obstacles, Shackleton leads his men to safety thanks to his preparation, adaptability, and intuitive understanding of human psychology.

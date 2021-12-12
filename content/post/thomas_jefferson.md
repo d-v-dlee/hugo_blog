@@ -13,7 +13,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-draft=false
+draft=true
 +++
 
 Examining why Thomas Jefferson was Great as well as his shortcomings through Jon Meacham's *Thomas Jefferson: The Art of Power*.
