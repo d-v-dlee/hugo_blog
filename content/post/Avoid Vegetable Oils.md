@@ -17,6 +17,8 @@ draft=false
 
 ### Avoid Vegetable Oils
 
+Vegetable oils are really bad for you. This is a TLDR version of Jeff Nobb's wonderful posts on the dangers of vegetable oils.
+
 {{< figure src="/images/vegetable_oils/confusing_sign.jpg">}}
 
 Despite food messaging often feeling like this sign, Americans are making a genuine effort to get healthier.
@@ -72,7 +74,7 @@ In addition to making you gain more weight, vegetable oils make you crave unheal
 ### Vegetable Oils are High in Omega-6
 Vegetable oils are high in inflammatory omega-6.  Omega-6 is linked with chronic diseases such as Alzheimers, autoimmune diseases, diabetes, heart disease and cancer. Omega-6 also negates the healthy, anti-inflammatory effects of Omega-3.
 
-Omega-3 helps in functions such as improving heart health, supporting mental health, reducing wast size, decreasing liver fat, supporting infant brain development, preventing dementia, promoting bone health and preventing asthma. However, it must “compete” against omega-6 to have an effect.  Ideally, there is a 1:1 ratio between omega-3 and omega-6 in the body, but thanks the widespread use of vegetable oils, the ratio in Americans is between 10:1 to 20:1. 
+Omega-3 helps in functions such as improving heart health, supporting mental health, reducing waist size, decreasing liver fat, supporting infant brain development, preventing dementia, promoting bone health and preventing asthma. However, it must “compete” against omega-6 to have an effect.  Ideally, there is a 1:1 ratio between omega-3 and omega-6 in the body, but thanks the widespread use of vegetable oils, the ratio in Americans is between 10:1 to 20:1. 
 
 So to recap: 
 - vegetable oils have lots of omega-6

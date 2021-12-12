@@ -17,7 +17,7 @@ googleAnalytics = "UA-172988296-1"
 [params]
 title = "dvdlee"
 author = "David Lee"
-description = "Futbol lover. Cast iron apprentice. Outdoor enthusiast."
+description = "The Rarely Updated Blog of David Lee"
 profilePicture = "images/solo3.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -36,9 +36,9 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/d-v-dlee/"
 
 [[params.socialIcons]]
-icon = "fa-github"
-title = "GitHub"
-url = "https://github.com/d-v-dlee"
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/d_v_dlee"
 
 [[params.socialIcons]]
 icon = "fa-instagram"
