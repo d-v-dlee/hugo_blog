@@ -14,7 +14,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-draft = false
+draft =true
 +++
 
 TLDR: The NBA is going to use the Oura Ring. The Oura Ring is for sleep (Covid?). Sleep is really important. The Oura Ring helps you track sleep (+ activity and meditation). Being able to improve sleep off the data is hard. The Oura ring is a cool product - not life-changing but definitely cool.
